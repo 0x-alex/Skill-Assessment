@@ -1,6 +1,22 @@
 # REChain - AI-Powered Full-Stack Real Estate Platform
 
-*A production-ready real estate platform with AI-powered property search, admin dashboard, and automated scraping*
+*A production-ready real estate platform with AI-powered property search, admin dashboard, and automated scraping — designed as a technical assessment for engineering candidates*
+
+## 🎯 What This Project Is
+
+This is a **full-stack real estate platform** built for evaluating engineering candidates. It demonstrates real-world architecture, AI integration, and modern development practices.
+
+
+**Core Features:**
+- 🔍 AI-powered property search (Firecrawl + GPT-4.1)
+- 🏢 Admin dashboard (CRUD operations)
+- 📅 Appointment scheduling
+- 📊 Real-time analytics
+- 🔐 JWT authentication
+- 🖼️ Image upload (ImageKit)
+- 📧 Email notifications (Brevo)
+
+
 
 ## Architecture
 
